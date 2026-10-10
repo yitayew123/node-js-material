@@ -1,0 +1,9 @@
+{
+  "name": "advanced-js-student-management",
+  "version": "1.0.0",
+  "description": "A practical JavaScript project covering advanced fundamentals",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  }
+}

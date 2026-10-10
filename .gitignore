@@ -1,0 +1,8 @@
+
+
+node_modules/
+output.txt
+Module_Demo/output.txt
+.DS_Store
+*.log
+.env

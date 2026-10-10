@@ -1,0 +1,2 @@
+echo "Student: John Doe
+Course: Node.js Development" > student.txt

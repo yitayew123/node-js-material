@@ -1,0 +1,3 @@
+echo "Hello from Node.js streams!
+This text will be uppercased.
+Streams process data in small chunks." > input.txt

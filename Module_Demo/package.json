@@ -1,0 +1,15 @@
+{
+  "name": "module-demo",
+  "version": "1.0.0",
+  "description": "Node.js module demo — built-in + local modules",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev":"nodemon app.js",
+    "test":"node test.js"
+  },
+  "keywords": []
+}
